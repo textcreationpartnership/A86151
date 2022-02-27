@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles proposed to the Catholiques of England, whereunto it was required that they should subscribe their negative answers, whereby it might be understood, they professe that there is nothing contained in these three articles which doth necessarily belong to the Catholique faith and religion ...</title>
+            <author>T. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86151</idno>
+            <idno type="STC">Wing H129A</idno>
+            <idno type="STC">Thomason E458_9</idno>
+            <idno type="STC">ESTC R205029</idno>
+            <idno type="EEBO-CITATION">50805831</idno>
+            <idno type="OCLC">ocm 50805831</idno>
+            <idno type="VID">162092</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86151)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162092)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E458[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles proposed to the Catholiques of England, whereunto it was required that they should subscribe their negative answers, whereby it might be understood, they professe that there is nothing contained in these three articles which doth necessarily belong to the Catholique faith and religion ...</title>
+                  <author>T. H.</author>
+               </titleStmt>
+               <extent>p. 9-16.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Paris? :</pubPlace>
+                  <date>1648?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: From Paris this 2. of April, 1648. T.H.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="articles">
+            <pb n="9" facs="tcp:162092:1" rendition="simple:additions"/>
+            <head>ARTICLES PROPOSED</head>
+            <head type="sub">To the Catholiques of <hi>England,</hi> whereunto it was required they ſhould ſubſcribe their negative anſwers, whereby it might be underſtood, they profeſſe that there is nothing contained in theſe three Articles which doth neceſſarily belong to the Catholique Faith and Religion; inſomuch, that they may and will abjure (if it be thought needfull) the practiſe and execution of them all.</head>
+            <q>
+               <p n="1">1. <hi>THat the Pope or Church hath power to abſolve any per<g ref="char:EOLhyphen"/>ſon or perſons from their obedience, to the civill and po<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iticall Government, establiſhed, or to be establiſhed in this Nation, in civill and politicall affairs.</hi>
+               </p>
+               <p n="2">2. <hi>That by the command or diſpenſation of the Pope or Church it is lawfull to kill, deſtroy, or doe any injury to any perſon or perſons living within the Kings Dominions; becauſe, that ſuch a perſon or perſons are accuſed, condemned, cenſured, or excom<g ref="char:EOLhyphen"/>municated for errour ſchiſme, or herefie.</hi>
+               </p>
+               <p n="3">3. <hi>That it is lawfull in it ſelf, or by diſpenſation from the Pope, to break promiſe or oath made to any of the a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oreſaid per<g ref="char:EOLhyphen"/>ſons, under pretence that they are Herètiques.</hi>
+               </p>
+            </q>
+            <p>Fifty Engliſh Catholique Gentlemen have ſubſcribed negative anſwers to theſe three Articles, upon certain con<g ref="char:EOLhyphen"/>ditions ſecretly agreed vpon for the good and freer exerciſe of the Catholique Religion, they being aſſured by divers
+<pb n="10" facs="tcp:162092:2"/> Prieſts, both Seculars and Regulars, under their hand wri<g ref="char:EOLhyphen"/>tings, that it was lawfull for them ſo to do. Which ſince a Congregation in <hi>Rome, hath ordained and decreed, was not, nor is not lawfull.</hi> Whereupon a Prieſt writeth out of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to his friend, a Doctor of Divinity of <hi>Paris,</hi> and ſends him a copy of this Congregationall Decree, earneſtly deſi<g ref="char:EOLhyphen"/>ring him that he will let him freely know his ſentiment and opinion in this buſineſſe, which Doctors anſwer to the que<g ref="char:EOLhyphen"/>ſtion <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere followeth.</p>
+            <div type="part">
+               <opener>
+                  <salute>Moſt dear Brother in Chriſt,</salute>
+               </opener>
+               <p>HAving ſeriouſly conſidered the three Articles you ſent me, with their little Preface (which you ſay containes in brief the ſubſtance of what was intended both by the pro<g ref="char:EOLhyphen"/>poſers and your ſelves) I cannot refuſe, neither in charity nor friendſhip, to give you my opinion concerning your ſubſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ription thereunto. Yet being unwilling you ſhould re<g ref="char:EOLhyphen"/>ly upon my private and particular judgment, in a matter of ſuch moment, I have conſulted with ſeverall great and lear<g ref="char:EOLhyphen"/>ned men of our Nation, but eſpecially ſome of the moſt an<g ref="char:EOLhyphen"/>cient and learned Doctors of Divinity of our faculty here, whoſe conſtant ſentiments are, that not only in their opini<g ref="char:EOLhyphen"/>ons your Act is lawfull, juſt and true, but that it is alſo the generall and univerſall belie<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of all the learned and judici<g ref="char:EOLhyphen"/>ous men of this Kingdome. So that I ſee not upon what grounds you need ſeare or apprehend the cen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ures which the Decree of the Congregation in <hi>Rome</hi> pretends you have incurred. Were your Kingdome or State ſetled, and that your liberty depended only upon your giving aſſurance of your fidelity, I ſhould eaſily procure you ſuch Soveraigne Antydotes againſt your timerous apprehenſions, and ſuch publike Declarations of your duty in this kind, as that none but either weakly ſcrupulous, or buſily factious, would be any whit moved at the interreſſed proceedings of the Court
+<pb n="11" facs="tcp:162092:2"/> of <hi>Rome.</hi> Me thinks you ſhould not be ignorant how ſuch Decrees of thoſe Congregations are ſlighted and reje<g ref="char:EOLhyphen"/>cted in the ſupream Courts of this Kingdom, by the moſt learned and moſt vertuous ſecular Judges of the Chriſtian World. Even thoſe who bear the moſt dutiful reſpect to his Holineſſe, as well Seculars as Regulars will openly profeſs, that the cabals and intereſts of the Court of <hi>Rome</hi> are now ſo generally known, that the Decrees of their Congregati<g ref="char:EOLhyphen"/>ons are ſcarcely taken notice of out of the Popes Territo<g ref="char:EOLhyphen"/>ries. We had no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> many months ag<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſuch a Decree ſent hi<g ref="char:EOLhyphen"/>ther from <hi>Rome</hi> to the Pope's Nun<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o, againſt a late booke called <hi>L<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s granaeurs de L'<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>giſe Romaine,</hi> which becauſe the Pope<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Nun<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>io would have publiſhed &amp; diſperſed through<g ref="char:EOLhyphen"/>out the Kingdom (having obtained licenſe from the King to it.) The Kings Advocate General Mr. <hi>Talon</hi> (a man worthy of his place) made a learne ſpeech in open Parliament (without any relation or intereſt to the doctrine of the book) againſt the admittance of ſuch decrees, wherein hee remarked very well the different nature and quality of theſe con<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gauonall Decrees (which were never received nor ac<g ref="char:EOLhyphen"/>knowledged as legall and authenticall in <hi>France)</hi> from the Buls of his Holineſſe as head of the Church. And this ſpeech was immediatly confirmed and ratified by a judgment given by this renowned Senate; and ſo the publication of the de<g ref="char:EOLhyphen"/>cree was hindered and ſuppreſſed. There was likewiſe in the year 1625. a ſeditious book written by one <hi>Garaſse</hi> a Jeſuit, but bearing no name, entituled <hi>Admonitio ad Regem,</hi> ſecret<g ref="char:EOLhyphen"/>ly diſperſed up and down in this City, which was condem<g ref="char:EOLhyphen"/>ned by a genera Synod of the Clergy of this Kingdom, then aſſembled in this town, wherein the <hi>indiſpenſable</hi> duty and obedience of Catholique Subjects to an heretical, and even to a perſecuting King or State, was particularly declared &amp; avouched. You may ſee the words themſelvs, pag. 12. <hi>quare id ipſum,</hi> &amp;c. <hi>Given ut Paris in the Generall Aſſembly of the</hi>
+                  <pb n="12" facs="tcp:162092:3"/> 
+                  <hi>Clergy the 13. of Decemb.</hi> 1625. Whereupon one <hi>Sanctarel<g ref="char:EOLhyphen"/>lus</hi> an Italian Jeſuit, was cauſed to write a book in approba<g ref="char:EOLhyphen"/>tion of the Pope's temporal authority to depoſe Kings and Princes, and to abſolve their Subjects from their obedience, which was preſently cenſured by our faculty of Divinity, and the affirmative doctrine of your firſt article (which is your chief difficulty) and other ſuch like poſitions were <hi>improved and condemned as new, falſe, erroneous, contrary to the Word of God, &amp;c. Given in the Sor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on the 1. of April,</hi> 1626. Hereupon four of the moſt famous Jeſuits of <hi>France</hi> then reſiding ſuperiou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s in their Colledges here, were ſent to the Parliament, and being demanded their opinions in this point, they confirmed and ratified this cenſure under their hands; profeſſing farther, that they did and would conſent and adneer to what the <hi>Sorbon</hi> had or ſhould declare in this or any other matter of Doctrine. I could ſend you the par<g ref="char:EOLhyphen"/>ticulars of theſe and many ſuch like proceedings here, being partly in print, partly upon publike record; but I conceive it need eſſe, at leaſt for the preſent. However, the Court of <hi>Rome's</hi> pretentions to ſecular and temporal power over Kings and Common-wealths, are now grown out of date, nor was it ever authorized, but by the execution of it. The origine of the Pope's authority in temporal affaires is well enough known, the great piety ahd reſpect to the Sea of <hi>Rome</hi> of divers antient Emperours, Kings, and Princes have made them receive their Crownes and Diadems from his ſacred hands, and caſt their Swords and Scepters at his Saintly feet: Others have made uſe of the Pope's ſwaying power to ſettle themſelves in their uſurped Monarchies and Prince<g ref="char:EOLhyphen"/>domes; not any verſed in Eccleſiaſtical Hiſtory, but knowes the particulars of theſe truths. But to come back to your Decree, I perceive, that the Authors of it looking only up<g ref="char:EOLhyphen"/>on the negative anſwers to the bare Articles, without the preface, or ſeparated inſtrument, whereunto you Prieſts and
+<pb n="13" facs="tcp:162092:3"/> Religious did ſubſcribe (which was purpoſely made to ſe<g ref="char:EOLhyphen"/>cure the Lay-Gentlemen, that ſuppoſing they might enjoy the freedome of their Religion, they might lawfully re<g ref="char:EOLhyphen"/>nounce the practiſe of theſe Articles, which makes the caſe far different both to the one and the other) they conceived you intended to d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny and deſtroy the probability of that o<g ref="char:EOLhyphen"/>pinion which they think it neceſſary for their ends to main<g ref="char:EOLhyphen"/>tain; And therefore, to keep their hold, and conſerve their pretended right, they framed this Decree in hugger mugger, and kept it private. Their chief motive is acknowledged in the Decree it ſelf, <hi>Leaſt it ſhould be ſaid herea<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>er, that his Holineſſe did approve or connive at the ſubſcription to ſuch Articles, as were prejudiciall to his pontificiall Greatneſse.</hi> The ſame was alſo expreſly intimated to the Popes Nuntio here, it being ſignified unto him, there ſhould be no legall publi<g ref="char:EOLhyphen"/>cation of it, no more then there had been at <hi>Rome,</hi> nor conſe<g ref="char:EOLhyphen"/>quently ſure did they intend it ſhould oblige. Nay, even they themſelvs would eſteem him a very fool, that would looſe his eſtate, or venter his life for the maintenance of this opi<g ref="char:EOLhyphen"/>nion or decree. Your negative anſwers to theſe Articles, are to be underſtood according to your and the propoſers in<g ref="char:EOLhyphen"/>tentions, that is, to renounce the practiſe of them, and pro<g ref="char:EOLhyphen"/>feſte them to be no part of your Faith and Religion, which I believe the very Court of Rome doth not pretend, witneſs Cardinal <hi>Peron,</hi> who after he had often averred in his Ora<g ref="char:EOLhyphen"/>tion to the Nobles of <hi>France,</hi> in the year 1615. that the Do<g ref="char:EOLhyphen"/>ctrine of the Pope's power to depoſe heretical Kings, and abſolve their ſubjects from their obedience, was only <hi>pro<g ref="char:EOLhyphen"/>blematicall.</hi> And in particular, that the Catholiques of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> were obliged to obey K. <hi>Iames</hi> then raigning. In his o<g ref="char:EOLhyphen"/>ther Oration to the third State (who urged and preſſed to have the contrary Doctrine received, <hi>as a fundamentall Law of the Kingdome, and as holy, true, and conformable to the Word of God)</hi> having uſed all poſſible arguments to diſſwade them
+<pb n="14" facs="tcp:162092:4"/> from this deſign, and learnedly labouring to ſhew a greater probability for the affirmative part. He concludes towards the end of his ſpeech, <hi>That the Pope doth tollerate and ſuffer the contrary opinion to be held, ſo it be onely maintained as problematicall in matter of Faith, that is,</hi> ſaith he, <hi>ſo it be not propoſed as neceſsary to Faith, nor the oppoſite declared, as con<g ref="char:EOLhyphen"/>trary to the VVord of God, impious and de<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>estable.</hi> Beſides, this Decree is given againſt th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> negative ſubſcribers to unpub<g ref="char:EOLhyphen"/>liſhed Articles, without any information or knowledge of the original inſtrument, wherunto you Prieſts did ſubſcribe, naywithout calling any of you to acount; but only in the ayr againſt the negative ſubſcription, ſuppoſed to be done they know not where nor how, contrary to the ordinary formes of our Law and Juſtice. But every man who hath negocia<g ref="char:EOLhyphen"/>ted in the Court of <hi>Rome</hi> can tell you, that theſe Congrega<g ref="char:EOLhyphen"/>tional Decrees are generally made by a few Cardinals and Prelates, who (to ſpeak modeſtly) little know upon what grounds and principles the abſtruſe ſequels of Faith are to be reſolved. They ſay in this, they have conſulted Divines, that is, perhaps ſome few forraign Regulars, whoſe intereſts lye wholly in that Court, depending immediatly of it, and exempted by his Holineſſe from the ordinary and divine Hierarchichal Government of the Church; who knowing nothing of the affairs, nor of the circumſtances of the que<g ref="char:EOLhyphen"/>ſtion, were not like to deliver any other opinion then what their great Patrons would have them. I wiſh with all my heart, that with the loſſe of my bloud I could blot out the be<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>efe of all experienced men, that notning but intereſt and <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tion are prevalent in the Court of <hi>Rome.</hi> It is now in eve<g ref="char:EOLhyphen"/>ry mans mouth that underſtands the affaires of the World, that they ſeek their own ends, not the publique good. Final<g ref="char:EOLhyphen"/>ly, I remark, that they chiefly direct their Decree to the ſu<g ref="char:EOLhyphen"/>periours of their exempted Emiſſaries, no mention made of the Biſhop or Clergy, who are the only lawfull and cano<g ref="char:EOLhyphen"/>nical
+<pb n="15" facs="tcp:162092:4"/> publiſhers (with the permiſſion and conſent of the State or civill Magiſtrates) of any true and authentical ſpi<g ref="char:EOLhyphen"/>ritual command. Tiuly, if ſuch a Decree had been ſent hi<g ref="char:EOLhyphen"/>ther, and ſo illegally proclaimed, it would have bin preſent<g ref="char:EOLhyphen"/>ly condemned to be burnt by the hands of the Hangman. In a word, I ſee nothing capable to beget a ſcruple, nor that ought to hinder any Catholique from ſubſcribing to the Articles as you have done: Nor ſhal I eaſily perſwade my ſelf, that any wiſe and experienced man will ſhrink from ſo juſt an Act. If your State, King, or Parliament wil ſuffer and tolerate you to live quietly under them (which I wonder ſuch able men ſhould boggle at) I ſhal quickly provide and help you with ſuch adviſe from the moſt learned and moſt vertuous Divines of Europe, as wil make your Eccleſia ſti<g ref="char:EOLhyphen"/>cal Government an example to all other States and King<g ref="char:EOLhyphen"/>doms your Ne<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ghbours, And ſtil conſerving all due re<g ref="char:EOLhyphen"/>ſpect and ſpiritual obedience to the Sea of Rome, you ſhall free your ſelves from all unneceſſary and unfit dependance of the Roman Court, wherein I ſhall furniſh you with the reſolutions of ſuch queſtions as will open the eyes of all your unexperienced and tender conſcienced Country-men, who have not had perhaps the meanes to diſcern and diſtin<g ref="char:EOLhyphen"/>guiſh their due and neceſſary obedience from a ſuperfluous and unjuſt obſequiouſneſſe: And which ſhall withall make appeare to all the Chriſtian World the now wel neare fourſcore yeares hard and unfatherly dealing. of the Court of Rome over the poore perſecuted and diſtreſſed Catholiques of <hi>England.</hi> Let it therefore be your conſtant endeavour, to give the King, State, or Parliament full ſatiſ<g ref="char:EOLhyphen"/>faction and aſſurance of y<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur fidelity, to the civil and poli<g ref="char:EOLhyphen"/>tical government of your Kingdome, whatſoever it ſhall be, which may moſt certainly ſtand with the integrity of your Religion and Conſciences, for the reſt fear nothing, truſt to
+<pb n="16" facs="tcp:162092:5" rendition="simple:additions"/> the juſtice of your cauſe, which you may aſſuredly believe will not want ſupport. For my particular, according to my poor ability, you ſhall ever find me,</p>
+               <closer>
+                  <signed>Your most loving Brother in Chriſt, and obedient Servant, T. H.</signed>
+                  <dateline>From Paris <date>this 2. of April, 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
